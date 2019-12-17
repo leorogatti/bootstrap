@@ -1,0 +1,64 @@
+
+.imagem-um {
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 550px;
+}
+          
+.imagem-dois {
+  object-fit: cover;
+  height: 550px;
+}
+
+.fonte-titulo {
+  font-family: 'Pacifico', cursive;
+}
+
+.cor-vermelha {
+  color: red;
+}
+
+.cor-vinho {
+  color: #910101!important;
+  font-weight: bold;
+}
+
+.cor-cinza-escuro {
+  color: #3b3b3b;
+}
+
+.cor-cinza {
+  color:#333;
+}
+
+.imagem-receita {
+  object-fit: cover;
+  height: 230px;
+}
+
+a.botao-cor-vinho {
+  background: #910101!important;
+  color: #ffffff
+}
+
+a.botao-cor-vinho:hover {
+  background-color: #650101!important;
+  color: #fff!important;
+}
+
+.btn-vinho {
+  background-color: #910101!important;
+  color: #fff!important;
+}
+
+.btn-vinho:hover {
+  background-color: #650101!important;
+}
+
+.border-cor-vinho {
+  border-color: #910101!important;
+}
+
+.card-largura {
+  max-width: 18rem!important;
+}
